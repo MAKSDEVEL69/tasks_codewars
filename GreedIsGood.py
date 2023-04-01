@@ -1,3 +1,5 @@
+#https://www.codewars.com/kata/5270d0d18625160ada0000e4/python
+
 def score(dice):
     amount1 = [0,0,0,0,0,0,0]
     res = 0

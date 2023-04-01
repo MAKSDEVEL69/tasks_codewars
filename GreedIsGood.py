@@ -16,5 +16,3 @@ def score(dice):
     res += amount1[1] * 100 + amount1[5] * 50
     return res
 
-
-score([2, 2, 2, 3, 3])
